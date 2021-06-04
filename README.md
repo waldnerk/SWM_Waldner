@@ -7,3 +7,4 @@
 6. Schlange
 
 Urheberin: Katharina Waldner
+keine Lizenz
