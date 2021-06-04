@@ -2,5 +2,8 @@
 1. Katzen
 2. Hunde
 3. Schildkröten
-4. Hasen
+4. Hase
 5. Fische
+6. Schlange
+
+
